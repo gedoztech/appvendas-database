@@ -1,0 +1,1 @@
+create database IF not exists `appvendas`;
